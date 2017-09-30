@@ -1,0 +1,37 @@
+h2 {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 400;
+    text-shadow: 0px 1px 0 rgba(0,0,0,.2);
+    padding-top: 50px;
+    padding-bottom: 10px;
+  }
+  
+button {
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+    background: #487E9B;     
+    text-shadow: 0px 2px 0 rgba(0,0,0,.2);
+    color: white;
+    border: solid 2px #487E9B;
+  }
+ h3 {
+    font-size: 25px;
+    display: block;
+    margin: 15px 0 5px 0;
+    font-weight: 600;
+    margin-left:1em;
+    margin-right:1em;
+    } 
+  
+p {
+    margin-left:2em;
+    margin-right:1em;
+}
+  .screen {
+    background: linear-gradient(-190deg, #4CA4E7, #3F728F);
+    border: solid 1px white;
+    color: white;
+    font-size: 18px;
+  }
